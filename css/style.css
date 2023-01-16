@@ -329,17 +329,96 @@ body {
 .element-item:hover .isotop-overlay h2{
     bottom: 0;
 }
-
-
-
-
-
-
-
-
-
-
 /* ******************************************* */
+.row6{
+    height: 436px;
+    background: #fff;
+    margin-top: -20px;
+}
+.pricing-section{}
+.pricing-top{
+    text-align: center;
+
+}
+.pricing-top h2{}
+.pricing-top p{
+    width: 700px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.pricing-bottom{}
+.pricing-all{
+    width: 87%;
+    margin: 0 auto;
+}
+.pricing-part{
+    float: left;
+    width: 186px;
+    background: #39393a;
+    margin-left: 30px;
+    height: 297px;
+    color: #fff;
+    border-radius: 5px;
+}
+.pricing-part:first-child{
+    margin-left: 0px;
+}
+.pricing-part:hover{
+    background: #87d37c;
+    transition: 1s;
+}
+.pricing-part:hover button{
+    background: #fff;
+    color: #87d37c;
+    transition: 1s;
+    border: 1px solid #fff;.00
+}
+.pricing-part:hover .pricing-round{
+    background: #fff;
+    color: #87d37c;
+    transition: 1s;
+}
+.pricing-round{
+    height: 100px;
+    width: 100px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 20px;
+    padding-top: 23px;
+    margin-top: 20px;
+    margin-bottom: 17px;
+}
+.pricing-round p{
+    font-size: 20px;
+}
+.pricing-round p sup{
+    font-size: 14px;
+    margin-right: 8px;
+}
+.pricing-part ul{}
+.pricing-part ul li{
+    text-align: center;
+    list-style: none;
+    text-transform: uppercase;
+    border-bottom: 1px solid #fff;
+    width: 135px;
+    margin: 0 auto;
+    padding-bottom: 3px;
+}
+.pricing-part button{
+    color: #000;
+    padding: 5px 15px;
+    display: block;
+    width: 102px;
+    margin: 0 auto;
+
+}
+.pricing section{}
+.pricing section{}
+.pricing section{}
+.pricing section{}
 
 
 
